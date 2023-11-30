@@ -1,0 +1,12 @@
+1:HL["/_next/static/media/4de1fea1a954a5b6-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/media/6d664cce900333ee-s.p.woff2",{"as":"font","type":"font/woff2"}]
+3:HL["/_next/static/media/a191be38c0721fcf-s.p.woff2",{"as":"font","type":"font/woff2"}]
+4:HL["/_next/static/media/a74873af97b5c7d9-s.p.woff2",{"as":"font","type":"font/woff2"}]
+5:HL["/_next/static/css/d49bf85e1b02a6b8.css",{"as":"style"}]
+0:["KKBGYg7Z4k-begPNnkCwy",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L6",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d49bf85e1b02a6b8.css","precedence":"next"}]],["$L7",["$","meta",null,{"name":"next-size-adjust"}]]]]]]
+8:HL["/_next/static/css/e1fefa3aba0db34c.css",{"as":"style"}]
+9:I{"id":3211,"chunks":["272:static/chunks/webpack-650d173b1b27e905.js","253:static/chunks/bce60fc1-5dbc0e295fd1bc4d.js","769:static/chunks/769-245e1c3fdad7fb41.js"],"name":"default","async":false}
+a:I{"id":5767,"chunks":["272:static/chunks/webpack-650d173b1b27e905.js","253:static/chunks/bce60fc1-5dbc0e295fd1bc4d.js","769:static/chunks/769-245e1c3fdad7fb41.js"],"name":"default","async":false}
+b:I{"id":7477,"chunks":["477:static/chunks/477-07ad5cac7d8900c7.js","379:static/chunks/app/daily/page-508f27b080926115.js"],"name":"","async":false}
+6:[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_98503d","children":["$","$L9",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$La",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":[["$","main",null,{"className":"page_hero__ZoZym","children":[["$","h2",null,{"className":"page_title__yhPp_","children":"Hey there!"}],["$","span",null,{"children":"This is a home page that will be used later."}],["$","$Lb",null,{"className":"page_link__5CEru","href":"/daily","children":"Word of the day"}]]}],null],"segment":"__PAGE__"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e1fefa3aba0db34c.css","precedence":"next"}]]}]}]}],null]
+7:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Dicktionary"}],["$","meta","2",{"name":"description","content":"Jeste brate"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"any"}]]
